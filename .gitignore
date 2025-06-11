@@ -1,0 +1,9 @@
+# .gitignore
+venv*/
+__pycache__/
+*.pyc
+*.h5
+*.dylib
+*.so
+*.csv
+*.txt
