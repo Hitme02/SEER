@@ -107,10 +107,11 @@ SEER/
 - Battery storage simulation
 - PDF report export
 - Grid health monitoring
+- AI Chatbot For interfacing
 
 ---
 
 ## 📜 Credits
 - Powered by Streamlit, TensorFlow, scikit-learn, TenSEAL
-- Developed by [@Hitme02](https://github.com/Hitme02)
+- Developed by [@Hitme02](https://github.com/Hitme02), [@chhavipareek](https://github.com/chhavi-pareek) and [@advyy100i](https://github.com/advyy100i)
 
